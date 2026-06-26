@@ -3,8 +3,4 @@ yfinance==0.2.48
 pandas==2.2.3
 numpy==1.26.4
 pytz==2024.1
-<<<<<<< HEAD
 requests==2.32.3
-=======
-requests==2.32.3
->>>>>>> 0af181d16ad91300f1da5e7e9deee4cc4b9a661d
